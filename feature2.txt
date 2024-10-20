@@ -1,0 +1,2 @@
+1st line from feature2
+switching to dev -> feature2
